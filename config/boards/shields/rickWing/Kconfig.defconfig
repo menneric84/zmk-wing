@@ -1,0 +1,6 @@
+if RICK_WING
+
+config ZMK_KEYBOARD_NAME
+    default "RickWing"
+
+endif
