@@ -63,7 +63,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&boot_loader     &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4     &trans    &trans    &trans  &trans     &trans  &kp BSPC
+&bootloader     &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4     &trans    &trans    &trans  &trans     &trans  &kp BSPC
 &studio_unlock  &kp RC(RA(T))  &kp RA(RC(G))  &kp RA(RC(R))  &kp RA(RC(F))  &kp RA(RC(S))    &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans
 &kp LSHFT       &trans         &trans         &trans         &trans         &trans           &trans    &trans    &trans  &trans     &trans  &tog 1
                                                      &trans         &trans           &trans    &trans   
