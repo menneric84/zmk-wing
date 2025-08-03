@@ -8,7 +8,6 @@
 
     kscan: kscan {
         compatible = "zmk,matrix-transform";
-        diode-direction = "col2row";
         rows = <4>;
         columns = <10>;
 
@@ -36,7 +35,6 @@
     };
 
     transform: matrix_transform {
-diode-direction = "col2row";
         compatible = "zmk,matrix-transform";
         rows = <4>;
         columns = <10>;
