@@ -3,13 +3,7 @@
 #include <dt-bindings/zmk/bt.h>
 
 #define MAC 0
-#define MAC_CODE 1
-#define MAC_NUMBER 2
-#define MAC_FUNCTION 3
-#define WINDOWS 4
-#define WINDOWS_CODE 5
-#define WINDOWS_NUMBER 6
-#define WINDOWS_FUNCTION 7
+
 
     // Behavior Overrides
     &lt {
