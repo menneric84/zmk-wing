@@ -8,7 +8,6 @@
 
     kscan: kscan {
         compatible = "zmk,matrix-transform";
-        label = "KSCAN";
         diode-direction = "col2row";
         rows = <4>;
         columns = <10>;
