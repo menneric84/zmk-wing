@@ -2,7 +2,7 @@
 
 / {
     default_layout: default_layout {
-        compatible = "zmk,physical-layout";
+        compatible = "zmk,physical-layout-position-map";
         display-name = "Default";
 
         kscan = <&kscan>;
