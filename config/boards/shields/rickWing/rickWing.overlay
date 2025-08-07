@@ -1,5 +1,5 @@
 
-#include <rickWing-layouts.dtsi>
+#include "rickWing-layouts.dtsi"
 #include <dt-bindings/zmk/matrix_transform.h>
 
 &physical_layout0 {
