@@ -6,11 +6,10 @@
 	transform = <&matrix_transform0>;
 };
 / {
-	chosen {
-		zmk,kscan = &kscan0;
-		zmk,matrix_transform = &transform;
-	};
-	
+    chosen {
+        zmk,kscan = &kscan0;
+        zmk,physical-layout = &physical_layout0;
+    };
 	matrix_transform0: keymap_transform_0  {
 		compatible = "zmk,matrix-transform";
 		rows = <4>;
