@@ -52,6 +52,7 @@
 			&kp ESC   &kp RA(RC(G))  &kp RA(RC(R))  &kp RA(RC(F))  &kp RA(RC(S))    &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &studio_unlock
 			&kp RIGHT_GUI              &trans         &trans         &trans         &trans           &trans    &trans    &trans  &trans      &tog 1
 			 &trans         &kp BACKSPACE           &kp TAB    &trans 
+			 >;
 		};
 		
 		raise_layer {
